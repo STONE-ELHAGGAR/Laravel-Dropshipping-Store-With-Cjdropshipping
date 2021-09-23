@@ -13,7 +13,7 @@
             </ul>
         </div>
         <div class=" main-content-area">
-
+            
             <div class="wrap-iten-in-cart">
                 <h3 class="box-title">Products Name</h3>
                 <ul class="products-cart">

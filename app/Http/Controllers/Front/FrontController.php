@@ -14,8 +14,10 @@ class FrontController extends Controller
     Public function index(){
         return view('welcome');
     }
-    Public function cart(){
-        return view('cart');
+    Public function cart($id = 0){
+        $data = array();
+        $data['id'] = $id;
+        return view('cart',compact('data'));
     }
     Public function about_us(){
         return view('about-us');

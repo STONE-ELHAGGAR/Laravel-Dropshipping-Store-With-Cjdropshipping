@@ -14,5 +14,5 @@ use App\Http\Controllers\Front\FrontController;
 */
 
 Route::get('/',[FrontController::class,'index'])->name('home');
-Route::get('/cart',[FrontController::class,'cart'])->name('cart');
+Route::get('/cart/{id?}',[FrontController::class,'cart'])->name('cart');
 Route::get('/about-us',[FrontController::class,'about_us'])->name('about-us');
