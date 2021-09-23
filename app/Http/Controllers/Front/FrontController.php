@@ -9,7 +9,7 @@ class FrontController extends Controller
 {
     //Constructor
     Public function __construct(){
-        //
+        //Test Second Commit
     }
     Public function index(){
         return view('welcome');
