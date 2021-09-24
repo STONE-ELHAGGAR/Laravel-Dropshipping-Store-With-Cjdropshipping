@@ -234,7 +234,7 @@
         <div class="coppy-right-box">
             <div class="container">
                 <div class="coppy-right-item item-left">
-                    <p class="coppy-right-text">Copyright © 2021 Mazzeria LTD. Source Code Belongs to <code>STONE (ELHAGGAR)</code></p>
+                    <p class="coppy-right-text">Copyright © 2021 Mazzeria LTD.</p>
                 </div>
                 <div class="coppy-right-item item-right">
                     <div class="wrap-nav horizontal-nav">
